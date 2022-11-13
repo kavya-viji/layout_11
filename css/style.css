@@ -1,0 +1,200 @@
+.header .wrapper
+{
+width:100%;
+margin:auto;
+}
+.banner .wrapper
+{
+width:80%;
+margin:auto;
+}
+.feedback .wrapper
+{
+width:80%;
+margin:auto;
+}
+.footer .wrapper
+{
+width:100%;
+margin:auto;
+}
+.header
+{
+	height:100px;
+	background-color:moccasin;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.header .header-fc .blog
+{
+	margin-top:25px;
+	height:50px;
+	width:20%;
+	background-color:crimson;
+}
+.header .header-fc .home
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:crimson;
+}
+.header .header-fc .about
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:crimson;
+}
+.header .header-fc .post
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:crimson;
+}
+.header .header-fc .contact
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:crimson;
+}
+.banner
+{
+	height:300px;
+	background-color:indigo;
+}
+.banner .banner-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.banner .banner-fc .text
+{
+	margin-top:75px;
+	height:150px;
+	width:50%;
+	background-color:white;
+}
+.feedback
+{
+	height:1500px;
+	background-color:peru;
+}
+.feedback .feedback-fc
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.feedback .feedback-fc .a
+{
+	margin-top:100px;
+	height:200px;
+	width:70%;
+	background-color:plum;
+}
+.feedback .feedback-fc .b
+{
+	margin-top:60px;
+	height:200px;
+	width:70%;
+	background-color:plum;
+}
+.feedback .feedback-fc .c
+{
+	margin-top:60px;
+	height:200px;
+	width:70%;
+	background-color:plum;
+}
+.feedback .feedback-fc .d
+{
+	margin-top:60px;
+	height:200px;
+	width:70%;
+	background-color:plum;
+}
+.feedback .feedback-fc .e
+{
+	margin-top:60px;
+	height:200px;
+	width:70%;
+	background-color:plum;
+}
+.feedback .feedback-fc .f
+{
+	margin-top:60px;
+	height:50px;
+	width:20%;
+	background-color:plum;
+	margin-left:50%;
+}
+.footer
+{
+	height:500px;
+	background-color:springgreen;
+}
+.footer .footer-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+}
+.footer .footer-fc .a
+{
+	margin-top:125px;
+	height:250px;
+	width:20%;
+	background-color:thistle;
+}
+.footer .footer-fc .b
+{
+	margin-top:125px;
+	height:250px;
+	width:20%;
+	background-color:thistle;
+}
+.footer .footer-fc .c
+{
+	margin-top:125px;
+	height:250px;
+	width:20%;
+	background-color:thistle;
+}
+.footer .footer-fc .d
+{
+	margin-top:125px;
+	height:250px;
+	width:20%;
+	background-color:thistle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
